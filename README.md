@@ -7,7 +7,7 @@
 [![Code Climate](https://img.shields.io/codeclimate/github/projek-xyz/slim-framework.svg?maxAge=2592000&style=flat-square)](https://codeclimate.com/github/projek-xyz/slim-framework)
 [![Code Climate](https://img.shields.io/codeclimate/coverage/github/projek-xyz/slim-framework.svg?maxAge=2592000&style=flat-square)](https://codeclimate.com/github/projek-xyz/slim-framework)
 <a href="https://codeclimate.com/github/projek-xyz/slim-framework/coverage"><img src="https://codeclimate.com/github/projek-xyz/slim-framework/badges/coverage.svg" /></a>
-<a href="https://codeclimate.com/github/projek-xyz/slim-framework/coverage" style=flat-square><img src="https://codeclimate.com/github/projek-xyz/slim-framework/badges/coverage.svg" /></a>
+<a href="https://codeclimate.com/github/projek-xyz/slim-framework/coverage?style=flat-square><img src="https://codeclimate.com/github/projek-xyz/slim-framework/badges/coverage.svg" /></a>
 
 ## Requirements
 

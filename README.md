@@ -6,7 +6,7 @@
 [![SensioLabs Insight](https://img.shields.io/sensiolabs/i/54d5b9b0-46bb-45b3-bf83-03cb483b4a81.svg?style=flat-square)](https://insight.sensiolabs.com/projects/54d5b9b0-46bb-45b3-bf83-03cb483b4a81)
 [![Code Climate](https://img.shields.io/codeclimate/github/projek-xyz/slim-framework.svg?maxAge=2592000&style=flat-square)](https://codeclimate.com/github/projek-xyz/slim-framework)
 [![Code Climate](https://img.shields.io/codeclimate/coverage/github/projek-xyz/slim-framework.svg?maxAge=2592000&style=flat-square)](https://codeclimate.com/github/projek-xyz/slim-framework)
-[![Code Climate](https://codeclimate.com/github/projek-xyz/slim-framework/badges/gpa.svg)](https://codeclimate.com/github/projek-xyz/slim-framework)
+[![Code Climate](https://img.shields.io/codeclimate.com/github/projek-xyz/slim-framework/badges/gpa.svg)](https://codeclimate.com/github/projek-xyz/slim-framework)
 
 ## Requirements
 
